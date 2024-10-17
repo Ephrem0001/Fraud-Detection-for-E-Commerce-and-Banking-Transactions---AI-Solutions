@@ -1,0 +1,2 @@
+# Fraud-Detection-for-E-Commerce-and-Banking-Transactions---AI-Solutions
+Fraud detection project aiming to enhance systems for e-commerce and banking transactions using advanced machine learning, geolocation analysis, and transaction patterns. Features include data preprocessing, feature engineering, model training (Logistic Regression, CNN, LSTM), API deployment (Flask, Docker), and  Dash-powered dashboard.
